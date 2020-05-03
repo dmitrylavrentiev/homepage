@@ -19,3 +19,6 @@ function fancyAlert(arg) {
   }
 }
 ```
+
+Hocus-pocus!
+
