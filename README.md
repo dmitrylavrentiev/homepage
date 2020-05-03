@@ -4,14 +4,14 @@ My very own personal website. Basically this is just a résumé.
 ## My homepage
 Text *text* **text**
 
-###todo
+### todo
 * first
 * second
   *third
   
-####link @dmitrylavrentiev [my git](https://github.com/dmitrylavrentiev/homepage)
+#### link @dmitrylavrentiev [my git](https://github.com/dmitrylavrentiev/homepage)
 
-#####JS
+##### JS
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
